@@ -1,12 +1,12 @@
 site:
-  title: My Awesome Website
+  title: 一个存储库
   description: A prototype showing how to use GitHub as a CMS
   url: https://lqdev.github.io/TestGHCMS
   author:
     name: John Doe
     email: john@doe.com
     url: https://lqdev.github.io/TestGHCMS
-  language: en
+  language: zh
 postTypes:
   article:
     enabled: true
