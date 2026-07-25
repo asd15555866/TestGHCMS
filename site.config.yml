@@ -1,11 +1,11 @@
 site:
-  title: 一个存储库
-  description: A prototype showing how to use GitHub as a CMS
-  url: https://lqdev.github.io/TestGHCMS
+  title: 一个仓库
+  description: 无
+  url: https://asd15555866.github.io
   author:
-    name: John Doe
-    email: john@doe.com
-    url: https://lqdev.github.io/TestGHCMS
+    name: jcy
+    email: admin@mdzz.plus
+    url: https://asd15555866.github.io
   language: zh
 postTypes:
   article:
@@ -37,7 +37,7 @@ features:
     enabled: true
     autoCreate: true
   webmentions:
-    enabled: false
+    enabled: true
     send: true
     receive: true
     endpoint: https://webmention.io/api/mentions.jf2
